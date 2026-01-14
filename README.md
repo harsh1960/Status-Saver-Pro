@@ -1,7 +1,7 @@
-Status Saver Pro – Save WhatsApp Status Easily
+Status Saver  – Save WhatsApp Status Easily
 
-Status Saver Pro is a simple and powerful utility app that allows users to view and save WhatsApp statuses (images and videos) directly to their device storage.
-With a clean interface and fast performance, Status Saver Pro makes saving statuses quick, easy, and reliable.
+Status Saver  is a simple and powerful utility app that allows users to view and save WhatsApp statuses (images and videos) directly to their device storage.
+With a clean interface and fast performance, Status Saver  makes saving statuses quick, easy, and reliable.
 
 Key Features
 
@@ -45,7 +45,7 @@ No media is uploaded to any server
 
 Privacy Policy
 
-Status Saver Pro does not collect, store, or share any personally identifiable information.
+Status Saver does not collect, store, or share any personally identifiable information.
 
 Information We Collect
 
@@ -67,7 +67,7 @@ Status Saver Pro does not contain any in-app purchases or subscriptions.
 
 Children’s Privacy
 
-Status Saver Pro does not knowingly collect data from children under the age of 13.
+Status Saver does not knowingly collect data from children under the age of 13.
 
 Changes to This Policy
 
@@ -76,7 +76,7 @@ Any changes will be reflected on this page.
 
 Disclaimer
 
-Status Saver Pro is an independent utility app.
+Status Saver  is an independent utility app.
 It is not affiliated with, endorsed by, or associated with WhatsApp or Meta.
 
 Users are responsible for respecting copyright and privacy rules when saving and sharing content.
